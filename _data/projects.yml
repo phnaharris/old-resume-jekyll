@@ -13,8 +13,12 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+- name: Seanato
+  descr: "The app provides ferry booking, cable car tickets, tickets to amusement parks of Vinpearl and Sun World.
+          Seanato is the first and only application that provides a ticketing service in the field of maritime tourism, 
+          linking most of the major ferry carriers in the Kien Giang province to provide customers with optimal choice and 
+          the most effective.<br>
+          Seanato also cooperates with Vietnam's major travel groups such as Vingroup, Sun World."
   demo: https://example.com/
   tags:
     - tag: MongoDB
