@@ -16,22 +16,90 @@
 - name: Seanato
   descr: "The app provides ferry booking, cable car tickets, tickets to amusement parks of Vinpearl and Sun World.
           Seanato is the first and only application that provides a ticketing service in the field of maritime tourism, 
-          linking most of the major ferry carriers in the Kien Giang province to provide customers with optimal choice and 
-          the most effective.<br>
+          linking most of the major ferry carriers in the Kien Giang province to provide customers with optimal choice and the most effective.\n
           Seanato also cooperates with Vietnam's major travel groups such as Vingroup, Sun World."
-  demo: https://example.com/
-  tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
   tags:
-    - tag: Python
-    - tag: Django
+    - tag: Xamarin.Forms
+    - tag: MVVM
+    - tag: Payment process with Momo and Alepay
+    - tag: HttpRequest
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+- name: IHI
+  descr: "The app provides online teaching service for student with variety of subjects.
+          With this app, student can purchase courses from our partner, study online and review their knowledge with
+          our exercise.\n
+          By using IHI, student can study from everywhere they want and with their speed at specific lesson, 
+          easily check their understanding just with a device have the Internet."
+  tags:
+    - tag: Xamarin.Forms
+    - tag: MVVM
+    - tag: Entity Framework
+    - tag: HttpRequest
+    - tag: ASP.NET MVC
+    - tag: Payment process with Momo and Alepay
+    
+- name: Order filter tool
+  descr: "The automatic tool that getting all of orders confirmation email (email & password provided),  checking and filtering details such as color, size, customer information (phone, address, email, ...), ... add that details into Excel files."
+
+  tags:
+    - tag: WPF
+    - tag: Selenium
+    - tag: Multithreading architecture
+    - tag: RegEx
+    - tag: IMAP service
+
+- name: Change spotify password tool
+  descr: "The automatic tool that allow user to load a list of Spotify account with its changing password link. 
+          The tool follow the link automatically, enter password and new password, bypass captcha and submit.\n
+          User can use multithreading architecture to improve tool performance."
+  tags:
+    - tag: WPF
+    - tag: HttpRequest
+    - tag: Multithreading architecture
+    - tag: Selenium
+
+- name: Checking yahoo account tool
+  descr: "The automatic tool that allow user to load a list of outlook email (hotmail and password), 
+          check if that email have yahoo account linked, save the yahoo account and use that account to get account uid and reset a
+          corresponding facebook account password.\n
+          User can use multithreading architecture to improve tool performance."
+
+  tags:
+    - tag: WPF
+    - tag: Selenium
+    - tag: Multithreading architecture
+    - tag: HttpRequest
+    - tag: RegEx
+    - tag: Mail service library
+    - tag: Bypass captcha service library
+
+- name: Checking gamvip account
+  descr: "The automatic tool that allow user to load a list of gamvip 
+          (a list of webgame) account, log in and request account information like name, user id, financial information.... \n
+          User can use multithreading architecture to improve tool performance."
+  tags:
+    - tag: WPF
+    - tag: HttpRequest
+    - tag: Multithreading architecture
+
+
+- name: Automatic streaming tool
+  descr: "The automatic tool that allow user to create, edit, remove video stream on Youtube. 
+          User can create Chrome profile associated with Google account, choose video you want to stream on Youtube, 
+          setup start time and end time of that live stream. When the tool streaming, user can see quality of that video stream
+          (by bitrate, FPS, speed) and buy amount of viewers by third party service. \n
+          User can stream on more than one Google account at a time."
+
+  tags:
+    - tag: WPF
+    - tag: WinAPI (Process controlling)
+    - tag: Multithreading architecture
+    - tag: Selenium
+    - tag: FFMPEG
+    - tag: Video streaming
+
+- name: Pong game
+  descr: "Pong game is my end-of-term project of Programming Engineering term at university that use basic skill with C++ programming language."
+  tags:
+    - tag: C++

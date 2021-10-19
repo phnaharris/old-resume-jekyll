@@ -17,45 +17,36 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
-  tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+- title: HCM University of Science
+  title-url: https://hcmus.edu.vn/
+  date: Jun 2021 - Present
+  subtitle: B.A. Computer Science\nSelf-taught Blockchain technology
   timeline-side: right
 
-- title: Google
+- title: Full-time freelancer
   title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+  date: Jun 2020 - Jun 2021
+  subtitle: .NET Developer as freelancer\nMobile developing\nAutomation tool with Chrome driver and Selenium\n
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+    - tag: Xamrin.Forms
+    - tag: WPF
+    - tag: MVVM
+    - tag: ASP.NET MVC
+    - tag: Selelium
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
-  tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+- title: HCM University of Science
+  title-url: https://hcmus.edu.vn/
+  date: Sep 2018 - Jun 2020
+  subtitle: B.A. Computer Science\nPart-time freelancer mobile developer
   timeline-side: right
 
-- title: Super University
+- title: High schooler
   title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+  date: Sep 2017 - Sep 2018
+  subtitle: Self-taught programming 
+  tags:
+    - tag: Android
+    - tag: Java
+    - tag: Arduino
   timeline-side: left

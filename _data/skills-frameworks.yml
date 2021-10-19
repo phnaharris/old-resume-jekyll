@@ -5,29 +5,23 @@
 # - name: Framework
 #   weight: 5
 
-- name: Angular
-  weight: 5
-
-- name: AngularJS
-  weight: 3
-
-- name: React
+- name: Xamarin.Forms
   weight: 4
 
-- name: Node
-  weight: 1
+- name: ASP.NET MVC
+  weight: 4
+
+- name: MVVM
+  weight: 4
+
+- name: WPF
+  weight: 3
+
+- name: Entity Framework
+  weight: 3
+
+- name: Selenium
+  weight: 3
 
 - name: Flutter
   weight: 2
-
-- name: Express
-  weight: 3
-
-- name: Django
-  weight: 1
-
-- name: Spring
-  weight: 2
-
-- name: Rails
-  weight: 4
