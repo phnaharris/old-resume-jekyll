@@ -105,14 +105,4 @@
     - tag: C++
 
 - name: phnanhharris.github.io
-  descr: "My personal website built with 
-          <a class="highlight-link" href="https://jekyllrb.com/" target="_blank" rel="noreferrer">
-            Jekyll
-          </a>
-          and 
-          <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer">
-            neumorphism template
-          </a> by 
-          <a class="highlight-link" href="https://github.com/longpdo" target="_blank" rel="noreferrer">
-            longpdo
-          </a>"
+  descr: "My personal website built with <a class="highlight-link" href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> Jekyll</a> and <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> neumorphism template </a> by <a class="highlight-link" href="https://github.com/longpdo" target="_blank" rel="noreferrer"> longpdo </a>"
