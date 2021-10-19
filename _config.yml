@@ -35,7 +35,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: LHi everyone, I'm Anh, or you can call me Harris. 
+about_me_description: Hi everyone, I'm Anh, or you can call me Harris. 
   I'm a Computer Science student in VNUHCM - University of Science. 
   I have a passion for Blockchain programming, Ethereum, cryptocurrency and something familiar with.
   Currently I'm learning about Blockchain and Solidity, and I also looking for an internship in that field. Please let me know via messaging or email for me by 
@@ -45,7 +45,7 @@ about_me_description: LHi everyone, I'm Anh, or you can call me Harris.
   if you are looking for intern and feel interested in my 
   <a class="highlight-link" href="https://drive.google.com/file/d/1V6KNNfEf4rKxzHytjlLxm-85xKPK9Frk/view" target="_blank" rel="noreferrer">
     curriculum vitae
-  </a>. Starting to work while studying in university was an opportunity and a challenge for me in my career as a programmer. The first experiences on this road help me a lot in work and life, have more lessons and friends that are important in my career path later.orem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
+  </a>. Starting to work while studying in university was an opportunity and a challenge for me in my career as a programmer. The first experiences on this road help me a lot in work and life, have more lessons and friends that are important in my career path later.
 
 # SKILLS SECTION
 # show_skills_card:

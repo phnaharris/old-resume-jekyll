@@ -20,13 +20,13 @@
 - title: HCM University of Science
   title-url: https://hcmus.edu.vn/
   date: Jun 2021 - Present
-  subtitle: B.A. Computer Science\nSelf-taught Blockchain technology
+  subtitle: B.A. Computer Science<br>Self-taught Blockchain technology
   timeline-side: right
 
 - title: Full-time freelancer
   title-url: https://example.com/
   date: Jun 2020 - Jun 2021
-  subtitle: .NET Developer as freelancer\nMobile developing\nAutomation tool with Chrome driver and Selenium\n
+  subtitle: .NET Developer as freelancer<br>Mobile developing<br>Automation tool with Chrome driver and Selenium<br>
   tags:
     - tag: Xamrin.Forms
     - tag: WPF
@@ -38,7 +38,7 @@
 - title: HCM University of Science
   title-url: https://hcmus.edu.vn/
   date: Sep 2018 - Jun 2020
-  subtitle: B.A. Computer Science\nPart-time freelancer mobile developer
+  subtitle: B.A. Computer Science<br>Part-time freelancer mobile developer
   timeline-side: right
 
 - title: High schooler

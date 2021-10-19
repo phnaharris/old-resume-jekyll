@@ -16,7 +16,7 @@
 - name: Seanato
   descr: "The app provides ferry booking, cable car tickets, tickets to amusement parks of Vinpearl and Sun World.
           Seanato is the first and only application that provides a ticketing service in the field of maritime tourism, 
-          linking most of the major ferry carriers in the Kien Giang province to provide customers with optimal choice and the most effective.\n
+          linking most of the major ferry carriers in the Kien Giang province to provide customers with optimal choice and the most effective.<br>
           Seanato also cooperates with Vietnam's major travel groups such as Vingroup, Sun World."
 
   tags:
@@ -28,7 +28,7 @@
 - name: IHI
   descr: "The app provides online teaching service for student with variety of subjects.
           With this app, student can purchase courses from our partner, study online and review their knowledge with
-          our exercise.\n
+          our exercise.<br>
           By using IHI, student can study from everywhere they want and with their speed at specific lesson, 
           easily check their understanding just with a device have the Internet."
   tags:
@@ -51,7 +51,7 @@
 
 - name: Change spotify password tool
   descr: "The automatic tool that allow user to load a list of Spotify account with its changing password link. 
-          The tool follow the link automatically, enter password and new password, bypass captcha and submit.\n
+          The tool follow the link automatically, enter password and new password, bypass captcha and submit.<br>
           User can use multithreading architecture to improve tool performance."
   tags:
     - tag: WPF
@@ -62,7 +62,7 @@
 - name: Checking yahoo account tool
   descr: "The automatic tool that allow user to load a list of outlook email (hotmail and password), 
           check if that email have yahoo account linked, save the yahoo account and use that account to get account uid and reset a
-          corresponding facebook account password.\n
+          corresponding facebook account password.<br>
           User can use multithreading architecture to improve tool performance."
 
   tags:
@@ -76,7 +76,7 @@
 
 - name: Checking gamvip account
   descr: "The automatic tool that allow user to load a list of gamvip 
-          (a list of webgame) account, log in and request account information like name, user id, financial information.... \n
+          (a list of webgame) account, log in and request account information like name, user id, financial information.... <br>
           User can use multithreading architecture to improve tool performance."
   tags:
     - tag: WPF
@@ -88,7 +88,7 @@
   descr: "The automatic tool that allow user to create, edit, remove video stream on Youtube. 
           User can create Chrome profile associated with Google account, choose video you want to stream on Youtube, 
           setup start time and end time of that live stream. When the tool streaming, user can see quality of that video stream
-          (by bitrate, FPS, speed) and buy amount of viewers by third party service. \n
+          (by bitrate, FPS, speed) and buy amount of viewers by third party service. <br>
           User can stream on more than one Google account at a time."
 
   tags:
