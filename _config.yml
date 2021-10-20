@@ -21,8 +21,6 @@ email: phnanh.harris@gmail.com
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
 github_username: phnaharris
-codepen_username: 
-dev_username:
 linkedin_username: phna-harris
 twitter_username: phnaharris
 facebook_username: phna.phnt.2623
@@ -45,7 +43,8 @@ about_me_description: Hi everyone, I'm Anh, or you can call me Harris.
   if you are looking for intern and feel interested in my 
   <a class="highlight-link" href="https://drive.google.com/file/d/1V6KNNfEf4rKxzHytjlLxm-85xKPK9Frk/view" target="_blank" rel="noreferrer">
     curriculum vitae
-  </a>. Starting to work while studying in university was an opportunity and a challenge for me in my career as a programmer. The first experiences on this road help me a lot in work and life, have more lessons and friends that are important in my career path later.
+  </a>. <br>
+  Starting to work while studying in university was an opportunity and a challenge for me in my career as a programmer. The first experiences on this road help me a lot in work and life, have more lessons and friends that are important in my career path later.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -92,7 +91,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Feel free to contact or follow me if you are interested in my profile. I look forward to hearing from you.
+contact_description: Feel free to contact or follow me if you are interested in my profile.<br>I look forward to hearing from you.
 
 # GITHUB-METADATA
 # Set this to your forked repository

@@ -21,32 +21,32 @@
   title-url: https://hcmus.edu.vn/
   date: Jun 2021 - Present
   subtitle: B.A. Computer Science<br>Self-taught Blockchain technology
-  timeline-side: right
+  timeline-side: left
 
 - title: Full-time freelancer
-  title-url: https://example.com/
+  title-url: https://phnaharris.github.io/
   date: Jun 2020 - Jun 2021
-  subtitle: .NET Developer as freelancer<br>Mobile developing<br>Automation tool with Chrome driver and Selenium<br>
+  subtitle: .NET Developer as freelancer<br>Mobile developer<br>Automation tool with Chrome driver and Selenium<br>
   tags:
     - tag: Xamrin.Forms
     - tag: WPF
     - tag: MVVM
     - tag: ASP.NET MVC
-    - tag: Selelium
-  timeline-side: left
+    - tag: Selenium
+  timeline-side: right
 
 - title: HCM University of Science
   title-url: https://hcmus.edu.vn/
   date: Sep 2018 - Jun 2020
   subtitle: B.A. Computer Science<br>Part-time freelancer mobile developer
-  timeline-side: right
+  timeline-side: left
 
 - title: High schooler
-  title-url: https://example.com/
+  title-url: https://phnaharris.github.io/
   date: Sep 2017 - Sep 2018
-  subtitle: Self-taught programming 
+  subtitle: Self-taught programming
   tags:
     - tag: Android
     - tag: Java
     - tag: Arduino
-  timeline-side: left
+  timeline-side: right
