@@ -1,0 +1,434 @@
+%-------------------------
+% Resume in Latex
+% Author : Abey George
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage{multicol}
+\usepackage{graphicx}
+\setlength{\multicolsep}{-3.0pt}
+\setlength{\columnsep}{-1pt}
+\input{glyphtounicode}
+
+\RequirePackage{tikz}
+\RequirePackage{xcolor}
+\RequirePackage{fontawesome}
+\usepackage{tikz}
+\usetikzlibrary{svg.path}
+
+
+\definecolor{cvblue}{HTML}{0E5484}
+\definecolor{black}{HTML}{130810}
+\definecolor{darkcolor}{HTML}{0F4539}
+\definecolor{cvgreen}{HTML}{3BD80D}
+\definecolor{taggreen}{HTML}{00E278}
+\definecolor{SlateGrey}{HTML}{2E2E2E}
+\definecolor{LightGrey}{HTML}{666666}
+\colorlet{name}{black}
+\colorlet{tagline}{darkcolor}
+\colorlet{heading}{darkcolor}
+\colorlet{headingrule}{cvblue}
+\colorlet{accent}{darkcolor}
+\colorlet{emphasis}{SlateGrey}
+\colorlet{body}{LightGrey}
+
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+% \pagestyle{fancy}
+% \fancyhf{}  % clear all header and footer fields
+% \fancyfoot{}
+% \renewcommand{\headrulewidth}{0pt}
+% \renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.6in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1.19in}
+\addtolength{\topmargin}{-.7in}
+\addtolength{\textheight}{1.4in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large\bfseries
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\classesList}[4]{
+    \item\small{
+        {#1 #2 #3 #4 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{\large#1} & \textbf{\small #2} \\
+      \textit{\large#3} & \textit{\small #4} \\
+      
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{1.001\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & \textbf{\small #2}\\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemi{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+
+\newcommand\sbullet[1][.5]{\mathbin{\vcenter{\hbox{\scalebox{#1}{$\bullet$}}}}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+
+
+\begin{center}
+    {\Huge \scshape Nam Anh Pham Hoang (Harris)} \\ \vspace{1pt}
+    Ho Chi Minh City, Vietnam \\ \vspace{1pt}
+    \small \href{tel:+84 869 481 840}{ \raisebox{-0.1\height}\faPhone\ \underline{+84 869 481 840} ~}
+    \href{mailto:phnanh.harris@gmail.com}{\raisebox{-0.2\height}\faEnvelope\  \underline{phnanh.harris@gmail.com}} ~ 
+    \href{https://linkedin.com/in/phna-harris}{\raisebox{-0.2\height}\faLinkedinSquare\ \underline{phna-harris}}  ~
+    \href{https://github.com/phnaharris}{\raisebox{-0.2\height}\faGithub\ \underline{phnaharris}} ~
+    \href{https://www.hackerrank.com/phnaharris}{\raisebox{-0.2\height}\faHackerrank\ \underline{phnaharris}} \\
+    \href{https://phnaharris.github.io/}{\raisebox{-0.2\height}\faGlobe\  \underline{https://phnaharris.github.io/}} ~
+    \href{https://phnaphnt.github.io/}{\raisebox{-0.2\height}\faGlobe\  \underline{https://phnaphnt.github.io/}}
+    \vspace{-8pt}
+\end{center}
+
+
+%-----------EDUCATION-----------
+\section{EDUCATION}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {VNUHCM - University of Science}{08 2018 -- 08 2023}
+      %{Bachelor's degree - \textbf{CGPA} - \textbf{6.8}}{Ho Chi Minh City, Vietnam}
+      {Bachelor's degree (Computer Science major)}{Ho Chi Minh City, Vietnam}
+  \resumeSubHeadingListEnd
+  
+
+%------RELEVANT COURSEWORK-------
+\section{COURSEWORK / SKILLS}
+    %\resumeSubHeadingListStart
+        \begin{multicols}{4}
+            \begin{itemize}[itemsep=-2pt, parsep=5pt]
+                \item Data Structures \& Algorithms
+                \item Operating Systems
+                \item Computer Sciences
+                \item OOPs Concept
+                \item Mobile Application Development
+                \item Blockchain
+                \item Programming Languages
+                \item Database Management System (DBMS)
+                \item Web API Application Development
+            \end{itemize}
+        \end{multicols}
+        \vspace*{2.0\multicolsep}
+    %\resumeSubHeadingListEnd
+
+
+%-----------EXPERIENCE-----------
+\section{WORKING EXPERIENCE}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Full-time freelancer \href{https://phnaharris.github.io/}{\raisebox{-0.1\height}\faExternalLink }}{06 2020 -- 06 2021} 
+      {\underline{Mobile Application Developer}}{Da Lat, Lam Dong, Vietnam}
+      \resumeItemListStart
+        \resumeItem{\normalsize{Built Web API using ASP.NET MVC patterns.}}
+        \resumeItem{\normalsize{Built mobile cross-platform application using Xamarin.Forms.}}
+        \resumeItem{\normalsize{Built automation tool to do some works that the customer needs.}}
+        \resumeItem{\normalsize{Support customer to use and maintance the product.}}
+      \resumeItemListEnd  
+
+    \resumeSubheading
+      {Part-time freelancer \href{https://phnaharris.github.io/}{\raisebox{-0.1\height}\faExternalLink }}{06 2019 -- 06 2020} 
+      {\underline{Mobile Application Developer}}{Ho Chi Minh City, Vietnam}
+      \resumeItemListStart
+        \resumeItem{\normalsize{Built mobile cross-platform application using Xamarin.Forms.}}
+        \resumeItem{\normalsize{Communicated with the customer and team leader to deeply understand the needs of users and build an application that serves those needs.}}
+        \resumeItem{\normalsize{Studied a variety of ASP.NET technical stack as ASP.NET MVC, Selenium, WPF...}}
+
+      \resumeItemListEnd  
+
+  \resumeSubHeadingListEnd
+\vspace{-12pt}
+
+
+%-----------SOFT SKILLS-----------
+\section{SOFT SKILLS}
+ \begin{itemize}[leftmargin=0.33in, parsep=-2pt]
+    \item Passionate about learning new skills for life and technology.
+    \item Increase productivity by automating repetitive tasks.
+    \item Good at adaptability and problem solving with new
+    environment.
+    \item Communication skill.
+ \end{itemize}
+ \vspace{-15pt}
+
+
+%-----------PROGRAMMING SKILLS-----------
+\section{TECHNICAL SKILLS}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{\normalsize{Languages:}}{ \normalsize{C\#, C/C++, XAML, T-SQL, Python, Shell, HTML, Arduino, Java, Dart, Solidity...}} \\
+     \textbf{\normalsize{Developer Tools:}}{ \normalsize{VS Code, Visual Studio, SQL Server Management Studio, Remix, Android Studio, Jupyter Notebook, Postman, ngrok.io...}} \\
+     \textbf{\normalsize{Technologies/Frameworks:}}{\normalsize{ Xamarin.Forms with MVVM pattern, ASP.NET MVC with Entity Framework, WPF, Selenium, Linux, Git, Flutter...}} \\
+    }}
+ \end{itemize}
+ \vspace{-15pt}
+
+
+% -----------INVOLVEMENT---------------
+\section{EXTRACURRICULAR}
+    \resumeSubHeadingListStart
+        \resumeSubheading{Google IO Extended Vietnam 2019 \href{https://drive.google.com/drive/folders/1k5h6xw7oFICgEAcnXmVP1wcZdPf8Fa5k?usp=sharing}{\raisebox{-0.1\height}\faExternalLink } }{07 2019}
+        {}{Ho Chi Minh City, Vietnam}
+            \resumeItemListStart
+                \resumeItem{\normalsize{Certificate of Completion present for successfully completing the TensorFlow, Keras and deep learning, without a PhD.}}
+                \resumeItem{\normalsize{Certificate of Completion present for successfully completing the Building Beautiful UIs with Flutter.}}
+            \resumeItemListEnd
+
+        \resumeSubheading{HCMUS's BLIT Program}{2018}
+        {}{Ho Chi Minh City, Vietnam}
+            \resumeItemListStart
+                \resumeItem{\normalsize{Candidate of 4th round of BLIT Competition at VNUHCM - University of Science.}}
+            \resumeItemListEnd
+    \resumeSubHeadingListEnd
+ \vspace{-11pt}
+ 
+ %-----------CERTIFICATIONS---------------
+\section{CERTIFICATIONS}
+
+\hspace{0.15in} $\sbullet[.7] \hspace{0.1cm}$ {\href{https://www.hackerrank.com/certificates/229a5a0f646d}{C\# (Basic) - HackerRank} \href{https://www.hackerrank.com/certificates/229a5a0f646d}{\raisebox{-0.1\height}\faExternalLink }} \hspace{1.3cm}
+$\sbullet[.7] \hspace{0.1cm}$ {\href{https://www.linkedin.com/in/phna-harris/details/skills/}{LinkedIn Skill Assessment: C\#, .NET, C/C++, T-SQL,...} \href{https://www.linkedin.com/in/phna-harris/details/skills/}{\raisebox{-0.1\height}\faExternalLink }}
+
+\hspace{0.15in} $\sbullet[.7] \hspace{0.1cm}$ {\href{https://www.hackerrank.com/certificates/7cd765401419}{C (Intermediate) - HackerRank} \href{https://www.hackerrank.com/certificates/7cd765401419}{\raisebox{-0.1\height}\faExternalLink }} \hspace{0.37cm}
+
+\hspace{0.15in} $\sbullet[.7] \hspace{0.1cm}$ {\href{https://www.hackerrank.com/certificates/045cfefad6e1}{SQL (Basic) - HackerRank} \href{https://www.hackerrank.com/certificates/045cfefad6e1}{\raisebox{-0.1\height}\faExternalLink }} \hspace{1.14cm}
+
+
+%-----------PROJECTS-----------
+\section{PROJECTS}
+    \vspace{-5pt}
+    \resumeSubHeadingListStart
+
+      \resumeProjectHeading
+      {\textbf{\large{IHI}} $|$ \large{Mobile Developer}}{2021}
+        \resumeItemListStart
+          \resumeItem{\normalsize{The app provides online teaching service for student with
+          variety of subjects. With this app, student can purchase courses
+          from our partners, study online and review their knowledge with
+          our exercise. By using IHI, student can study from everywhere
+          they want and with their speed at specific lesson, easily check
+          their understanding just with a device which have Internet connection.}}
+
+          \resumeItem{\normalsize{Tech stack: Xamarin.Forms with MVVM pattern, HttpRequest, payment process
+          with Momo, ASP.NET MVC Web API with Entity Framework.}}
+
+          %\resumeItem{\textcolor{accent} {\href{https://github.com/phnaphnt/-HCMUS-KTLT-Pong-Game} {\normalsize{Github.}}}}
+        \resumeItemListEnd 
+        \vspace{-13pt}
+   
+      \resumeProjectHeading
+      {\textbf{\large{Automatic streaming tool}} $|$ \large{Developer}}{2021}
+        \resumeItemListStart
+          \resumeItem{\normalsize{The automatic tool that allow user to create, edit,
+          remove video stream on Youtube. User can create
+          Chrome profile associated with Google account,
+          choose video you want to stream on Youtube, setup start
+          time and end time of that live stream. When the tool
+          streaming, user can see quality of that video stream (by
+          bitrate, FPS, speed) and buy amount of viewers by third
+          party service. User can stream on more than one Google
+          account at a time.}}
+
+          \resumeItem{\normalsize{Tech stack: WPF, Selenium with Chrome profile
+          interaction, multithreading architecture, Youtube
+          streaming with FFMPEG, WinAPI (Process).}}
+
+          %\resumeItem{\textcolor{accent} {\href{https://github.com/phnaphnt/-HCMUS-KTLT-Pong-Game} {\normalsize{Github.}}}}
+        \resumeItemListEnd 
+        \vspace{-13pt}
+
+
+      \resumeProjectHeading
+      {\textbf{\large{Gamvip account checking tool}} $|$ \large{Developer}}{2021}
+        \resumeItemListStart
+          \resumeItem{\normalsize{The automatic tool that allow user to load a list of gamvip (a list
+          of webgame) account, log in and request account information
+          like name, user id, financial information.... User can use
+          multithreading architecture to improve tool performance.}}
+          
+          \resumeItem{\normalsize{Tech stack: WPF, HttpRequest, multithreading architecture.}}
+          
+          %\resumeItem{\textcolor{accent} {\href{https://github.com/phnaphnt/-HCMUS-KTLT-Pong-Game} {\normalsize{Github.}}}}
+        \resumeItemListEnd 
+        \vspace{-13pt}
+      
+      \resumeProjectHeading
+      {\textbf{\large{Yahoo account checking tool}} $|$ \large{Developer}}{2020}
+        \resumeItemListStart
+          \resumeItem{\normalsize{The automatic tool that allow user to load a list of outlook
+          email (hotmail and password), check if that email have
+          yahoo account linked, save the yahoo account and use
+          that account to get account uid and reset a
+          corresponding facebook account password. User can
+          use multithreading architecture to improve tool
+          performance.}}
+          
+          \resumeItem{\normalsize{Tech stack: WPF, Selenium, multithreading architecture,
+          regular expression, mail service library, bypass captcha
+          service library, HttpRequest.}}
+          
+          %\resumeItem{\textcolor{accent} {\href{https://github.com/phnaphnt/-HCMUS-KTLT-Pong-Game} {\normalsize{Github.}}}}
+        \resumeItemListEnd 
+        \vspace{-13pt}
+
+      \resumeProjectHeading
+      {\textbf{\large{Order filtering tool}} $|$ \large{Developer}}{2020}
+        \resumeItemListStart
+          \resumeItem{\normalsize{The automatic tool that getting all of orders confirmation
+          email (email \& password provided), checking and
+          filtering details such as color, size, customer information
+          (phone, address, email, ...), ... add that details into excel
+          files.}}
+
+          \resumeItem{\normalsize{Tech stack: WPF, Selenium, multithreading architecture,
+          regular expression, mail service library.}}
+
+          %5\resumeItem{\textcolor{accent} {\href{https://github.com/phnaphnt/-HCMUS-KTLT-Pong-Game} {\normalsize{Github.}}}}
+        \resumeItemListEnd 
+        \vspace{-13pt}
+     
+      \resumeProjectHeading
+      {\textbf{\large{Spotify password changing tool}} $|$ \large{Developer}}{2020}
+        \resumeItemListStart
+          \resumeItem{\normalsize{The automatic tool that allow user to load a list of Spotify
+          account with its changing password link. The tool follow the link
+          automatically, enter password and new password, bypass
+          captcha and submit. User can use multithreading architecture
+          to improve tool performance.}}
+
+          \resumeItem{\normalsize{Tech stack: WPF, HttpRequest, multithreading architecture,
+          Selenium.}}
+
+          %\resumeItem{\textcolor{accent} {\href{https://github.com/phnaphnt/-HCMUS-KTLT-Pong-Game} {\normalsize{Github.}}}}
+        \resumeItemListEnd 
+        \vspace{-13pt}
+
+      \pagebreak
+
+      \resumeProjectHeading
+       {\textbf{\large{Seanato}} $|$ \large{Mobile Developer}}{2019}
+          \resumeItemListStart
+            \resumeItem{\normalsize{The app provides ferry booking, cable car tickets, tickets
+            to amusement parks of Vinpearl and Sun World.
+            \\Seanato is the first and only application that provides a
+            ticketing service in the field of maritime tourism, linking
+            most of the major ferry carriers in the Kien Giang province
+            to provide customers with optimal choice and the most
+            effective.
+            \\Seanato also cooperates with Vietnam's major travel groups such as Vingroup, Sun World.}}
+            
+            \resumeItem{\normalsize{Tech stack: Xamarin.Forms with MVVM pattern, HttpRequest, payment
+            process with Momo \& Alepay...}}
+            
+            %\resumeItem{\textcolor{accent} {\href{https://github.com/phnaphnt/-HCMUS-KTLT-Pong-Game} {\normalsize{Github.}}}}
+          \resumeItemListEnd 
+          \vspace{-13pt}
+        
+      \resumeProjectHeading
+        {\textbf{\large{Pong game}} $|$ \large{Teamlead, Developer}}{2019}
+          \resumeItemListStart
+            \resumeItem{\normalsize{Pong game is my end-of-term project of Programming
+            Engineering term at university that use basic skill with C++
+            programming language.}}
+            
+            \resumeItem{\normalsize{Tech stack: C++ programming language.}}
+            
+            \resumeItem{\textcolor{accent} {\href{https://github.com/phnaphnt/-HCMUS-KTLT-Pong-Game} {\normalsize{Github.}}}}
+          \resumeItemListEnd 
+          \vspace{-13pt}
+
+
+
+
+
+      % \resumeProjectHeading
+      %     {{\textbf{\large{\underline{Project Name}}}} $|$ \large{Technology Stack Used}}{2021}
+      %     \resumeItemListStart
+      %       \resumeItem{\normalsize{About project \textbf{highlight key points}.}}
+      %       \resumeItem{\textcolor{accent} {\href{Project Link} {\underline{\normalsize{Download}}}}}
+      %     \resumeItemListEnd
+      %     \vspace{-13pt}
+    \resumeSubHeadingListEnd
+\vspace{-12pt}
+
+%
+
+\end{document}
