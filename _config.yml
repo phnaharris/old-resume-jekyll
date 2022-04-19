@@ -2,7 +2,7 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Anh Pham Hoang Nam (Harris Pham)
+title: Nam Anh Pham Hoang (Harris Pham)
 # description: This will be meta HTML tag content. This can be ignored.
 description: Personal website powered by Jekyll
 # baseurl: The subpath of your site
@@ -41,7 +41,7 @@ about_me_description: Hi everyone, I'm Anh, or you can call me Harris.
     phnanh.harris@gmail.com
   </a>
   if you are looking for intern and feel interested in my 
-  <a class="highlight-link" href="https://drive.google.com/file/d/16Ja7FfM0NI1vcv6ZuyZelBfvEiveb1Ly/view" target="_blank" rel="noreferrer">
+  <a class="highlight-link" href="./assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.pdf" target="_blank" rel="noreferrer">
     curriculum vitae
   </a>. I also have a Vietnamese personal blog at 
   <a class="highlight-link" href="https://phnaphnt.github.io/" target="_blank" rel="noreferrer">
@@ -70,8 +70,8 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://drive.google.com/file/d/16Ja7FfM0NI1vcv6ZuyZelBfvEiveb1Ly/view
-
+# cv_download_link: https://drive.google.com/file/d/16Ja7FfM0NI1vcv6ZuyZelBfvEiveb1Ly/view
+cv_download_link: ./assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.pdf
 # PROJECTS SECTION
 # show_projects_card:
 # > setting this to true, will display the Projects section
