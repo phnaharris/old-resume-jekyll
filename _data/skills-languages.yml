@@ -20,6 +20,9 @@
 - name: Shell
   weight: 3
 
+- name: Golang
+  weight: 3
+
 - name: Python
   weight: 3
 

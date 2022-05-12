@@ -14,6 +14,9 @@
 - name: MVVM
   weight: 4
 
+- name: Distributed System
+  weight: 3
+
 - name: WPF
   weight: 3
 
