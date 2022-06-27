@@ -1,10 +1,10 @@
-PWD /home/phnaharris/Documents/git/phnaharris.github.io/assets/cv
+PWD /media/phnaharris/DATA/WORKING/Personal/phnaharris.github.io/assets/cv
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/phnaharris/Documents/git/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.tex
-OUTPUT /home/phnaharris/Documents/git/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.log
+INPUT /media/phnaharris/DATA/WORKING/Personal/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.tex
+OUTPUT /media/phnaharris/DATA/WORKING/Personal/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.log
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -829,10 +829,10 @@ INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibrarysvg.path.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibrarysvg.path.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleparser.code.tex
-INPUT /home/phnaharris/Documents/git/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.aux
-INPUT /home/phnaharris/Documents/git/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.aux
-INPUT /home/phnaharris/Documents/git/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.aux
-OUTPUT /home/phnaharris/Documents/git/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.aux
+INPUT /media/phnaharris/DATA/WORKING/Personal/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.aux
+INPUT /media/phnaharris/DATA/WORKING/Personal/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.aux
+INPUT /media/phnaharris/DATA/WORKING/Personal/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.aux
+OUTPUT /media/phnaharris/DATA/WORKING/Personal/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.aux
 INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -889,18 +889,18 @@ INPUT /usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.st
 INPUT /usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-INPUT /home/phnaharris/Documents/git/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.out
-INPUT /home/phnaharris/Documents/git/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.out
-INPUT /home/phnaharris/Documents/git/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.out
-INPUT /home/phnaharris/Documents/git/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.out
-INPUT /home/phnaharris/Documents/git/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.out
-INPUT /home/phnaharris/Documents/git/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.out
-INPUT /home/phnaharris/Documents/git/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.out
-INPUT /home/phnaharris/Documents/git/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.out
-OUTPUT /home/phnaharris/Documents/git/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.pdf
-INPUT /home/phnaharris/Documents/git/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.out
-INPUT /home/phnaharris/Documents/git/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.out
-OUTPUT /home/phnaharris/Documents/git/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.out
+INPUT /media/phnaharris/DATA/WORKING/Personal/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.out
+INPUT /media/phnaharris/DATA/WORKING/Personal/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.out
+INPUT /media/phnaharris/DATA/WORKING/Personal/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.out
+INPUT /media/phnaharris/DATA/WORKING/Personal/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.out
+INPUT /media/phnaharris/DATA/WORKING/Personal/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.out
+INPUT /media/phnaharris/DATA/WORKING/Personal/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.out
+INPUT /media/phnaharris/DATA/WORKING/Personal/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.out
+INPUT /media/phnaharris/DATA/WORKING/Personal/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.out
+OUTPUT /media/phnaharris/DATA/WORKING/Personal/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.pdf
+INPUT /media/phnaharris/DATA/WORKING/Personal/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.out
+INPUT /media/phnaharris/DATA/WORKING/Personal/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.out
+OUTPUT /media/phnaharris/DATA/WORKING/Personal/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.out
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
 INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
@@ -946,9 +946,9 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/latex-fonts/lasy10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fontawesome/FontAwesome--fontawesometwo.tfm
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
-INPUT /home/phnaharris/Documents/git/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.aux
-INPUT /home/phnaharris/Documents/git/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.out
-INPUT /home/phnaharris/Documents/git/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.out
+INPUT /media/phnaharris/DATA/WORKING/Personal/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.aux
+INPUT /media/phnaharris/DATA/WORKING/Personal/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.out
+INPUT /media/phnaharris/DATA/WORKING/Personal/phnaharris.github.io/assets/cv/[CV][Nam Anh Pham Hoang (Harris)] Blockchain fresher.out
 INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb
